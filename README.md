@@ -1,6 +1,6 @@
-### Hi there! I'm Reed Bruskin 👋
+### Hi there! I'm Reed Bruskin 👋 
 
-:heavy_check_mark: LinkedIn: https://www.linkedin.com/in/reedbruskin
+:heavy_check_mark: LinkedIn: &nbsp;[![LinkedIn](https://img.shields.io/badge/reedbruskin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/reedbruskin/)](https://www.linkedin.com/in/reedbruskin/) &nbsp;
 :heavy_check_mark: Based in San Francisco, CA
 
 ### Languages & Tools
