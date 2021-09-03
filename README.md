@@ -3,7 +3,7 @@
 &nbsp;[![LinkedIn](https://img.shields.io/badge/reedbruskin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/reedbruskin/)](https://www.linkedin.com/in/reedbruskin/) &nbsp; &nbsp; [![Gmail](https://img.shields.io/badge/gMail%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:reedbruskin@gmail.com)](mailto:reedbruskin@gmail.com)
 
 :computer: Full Stack Engineer  
-:round_pushpin: Based in San Francisco, CA
+:round_pushpin: Based in San Diego, CA
 
 ### Languages & Tools
 ![image](https://user-images.githubusercontent.com/53019507/114622867-62e80400-9c63-11eb-8bf4-0c7ad39fd45f.png) ![image](https://user-images.githubusercontent.com/53019507/114622945-7dba7880-9c63-11eb-9467-4128f08876b7.png) ![image](https://user-images.githubusercontent.com/53019507/114622969-8448f000-9c63-11eb-8d46-54e81776b8f1.png) ![image](https://user-images.githubusercontent.com/53019507/114622994-8b6ffe00-9c63-11eb-8a43-e41280d29ae7.png) ![image](https://user-images.githubusercontent.com/53019507/114623018-92970c00-9c63-11eb-8e09-62819f2df809.png) ![image](https://user-images.githubusercontent.com/53019507/114623042-988ced00-9c63-11eb-8731-2e6b370546d1.png) ![image](https://user-images.githubusercontent.com/53019507/114623062-9cb90a80-9c63-11eb-9135-fd9f27c20b5f.png)
